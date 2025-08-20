@@ -18,8 +18,8 @@ Aqui você encontra os guias pra te ajudar nas implementações e praticar a con
 🔗 [Paranauê Labs #P: A pizzaria do ciclo de vida do DevOps](https://medium.com/@emershow/paranau%C3%AA-labs-p-a-pizzaria-do-ciclo-de-vida-do-devops-ef59fb9ba8b6)<br>
 Explica cada fase do ciclo de vida do DevOps e as métricas que podem ser observadas.
 
-🔗 [Paranauê Labs #T: Liberando o Terraform para construir na AWS](https://medium.com/@emershow/paranau%C3%AA-labs-t-liberando-o-terraform-para-construir-na-aws-e637364bd7c0)<br>
-Passo a passo pra você configurar o Terraform com AWS.
+🔗 [Paranauê Labs #T: Terraform Airlines](https://medium.com/@emershow/paranau%C3%AA-labs-t-terraform-airlines-c6675869f41b)<br>
+Passo a passo pra você configurar o Terraform com os Cloud Providers (AWS, Azure e GCP).
 
 ## 🌐 Vamos nos conectar e trocar ideias
 ℹ️ [LinkedIn - Emershow](https://www.linkedin.com/in/emnsilva/)
