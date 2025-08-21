@@ -1,6 +1,7 @@
 # 💡 Paranauê Labs
 O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazendo. Tá liberado experimentar, destruir, recomeçar, quebrar e consertar à vontade. Quer mexer com as ferramentas do momento? Aqui tem laboratório e disposição pra compartilhar conhecimento. O negócio é aprender na prática, com erros e acertos, e o melhor: sem pressão.
 
+## 🤔 E tu é quem, jovem?
 👨🏾‍💻 Tech Manager focado em DevOps, Cloud e entrega de alta qualidade<br>
 🧩 Especialista em Infraestrutura como Código, Observabilidade e Pipelines de CI/CD<br>
 🔍 Mestre em Observabilidade - Prometheus, Grafana e alertas que realmente previnem falhas<br>
