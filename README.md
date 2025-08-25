@@ -16,7 +16,7 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 ## 📝 Labs
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
-🔗 [Paranauê Labs #P: A pizzaria do ciclo de vida do DevOps](https://medium.com/@emershow/paranau%C3%AA-labs-p-a-pizzaria-do-ciclo-de-vida-do-devops-ef59fb9ba8b6)<br>
+🔗 [Paranauê Labs #ذ: A pizzaria do ciclo de vida do DevOps](https://medium.com/@emershow/paranau%C3%AA-labs-p-a-pizzaria-do-ciclo-de-vida-do-devops-ef59fb9ba8b6)<br>
 Explica cada fase do ciclo de vida do DevOps e as métricas que podem ser observadas.
 
 🔗 [Paranauê Labs #T: Terraform Airlines](https://medium.com/@emershow/paranau%C3%AA-labs-t-terraform-airlines-c6675869f41b)<br>
