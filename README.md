@@ -19,6 +19,9 @@ Aqui você encontra os guias pra te ajudar nas implementações e praticar a con
 🔗 [Paranauê Labs #ذ: A pizzaria do ciclo de vida do DevOps](https://medium.com/@emershow/paranau%C3%AA-labs-p-a-pizzaria-do-ciclo-de-vida-do-devops-ef59fb9ba8b6)<br>
 Explica cada fase do ciclo de vida do DevOps e as métricas que podem ser observadas.
 
+🔗 [Paranauê Labs #ت: O trabalho nunca é só o trabalho](https://medium.com/@emershow/paranau%C3%AA-labs-%D8%AA-o-trabalho-nunca-%C3%A9-s%C3%B3-o-trabalho-4dc4e52448fb)<br>
+Falo sobre as várias camadas que compõem o trabalho.
+
 🔗 [Paranauê Labs #G: Pronto-Socorro de Logs em Go](https://medium.com/@emershow/paranau%C3%AA-labs-g-pronto-socorro-de-logs-em-go-a099225b7ac8)<br>
 Como criar um logger básico em Go para acompanhar a saúde da sua infra.
 
