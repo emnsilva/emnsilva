@@ -25,6 +25,9 @@ Falo sobre as várias camadas que compõem o trabalho.
 🔗 [Paranauê Labs #G: Pronto-Socorro de logs em Go](https://medium.com/@emershow/paranau%C3%AA-labs-g-pronto-socorro-de-logs-em-go-23a7510b914e)<br>
 Como criar um logger básico em Go para acompanhar a saúde da sua infra.
 
+🔗 [Paranauê Labs #O: O Ministério da Observabilidade](https://medium.com/@emershow/paranau%C3%AA-labs-o-o-minist%C3%A9rio-da-observabilidade-4bd807522892)<br>
+Aqui você aprende a montar uma infraestrutura básica de observabilidade com Prometheus e Grafana.
+
 🔗 [Paranauê Labs #T: Terraform Airlines](https://medium.com/@emershow/paranau%C3%AA-labs-t-terraform-airlines-c6675869f41b)<br>
 Passo a passo pra você configurar o Terraform com os Cloud Providers (AWS, Azure e GCP).
 
