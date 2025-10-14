@@ -6,7 +6,7 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 🧩 Especialista em Infraestrutura como Código, Observabilidade e Pipelines de CI/CD<br>
 🔍 Mestre em Observabilidade - Prometheus, Grafana e alertas que realmente previnem falhas<br>
 🐞 Caçador de ineficiências - já economizei R$4mi em infraestrutura e reduzi MTTR em 35%<br>
-🧠 Evangelista do Kanban Maturity Model - elevando times do nível 0 ao 2 com gestão de fluxo e métricas orientadas a valor<br>
+🧠 Evangelista do Kanban Maturity Model - elevando a maturidade das organizações com gestão de fluxo e métricas orientadas a valor<br>
 🤖 Viciado em automação - Terraform, Ansible e pipelines CI/CD que entregam sem intervenção humana<br>
 ☝🏾 Lider técnico que une pessoas, processos e tecnologia para entregar resultados mensuráveis
 
@@ -16,19 +16,22 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 ## 📝 Labs
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
-🔗 [Paranauê Labs #ذ: A pizzaria do ciclo de vida do DevOps](https://medium.com/@emershow/paranau%C3%AA-labs-%D8%B0-a-pizzaria-do-ciclo-de-vida-do-devops-c9dd54db29bf)<br>
+🔗 [Paranauê Labs #ذ: A pizzaria do ciclo de vida do DevOps](https://emershow.medium.com/paranau%C3%AA-labs-%D8%B0-a-pizzaria-do-ciclo-de-vida-do-devops-c9dd54db29bf)<br>
 Explica cada fase do ciclo de vida do DevOps e as métricas que podem ser observadas.
 
-🔗 [Paranauê Labs #ت: O trabalho nunca é só o trabalho](https://medium.com/@emershow/paranau%C3%AA-labs-%D8%AA-o-trabalho-nunca-%C3%A9-s%C3%B3-o-trabalho-4dc4e52448fb)<br>
+🔗 [Paranauê Labs #ت: O trabalho nunca é só o trabalho](https://emershow.medium.com/paranau%C3%AA-labs-%D8%AA-o-trabalho-nunca-%C3%A9-s%C3%B3-o-trabalho-4dc4e52448fb)<br>
 Falo sobre as várias camadas que compõem o trabalho.
 
-🔗 [Paranauê Labs #G: Pronto-Socorro de logs em Go](https://medium.com/@emershow/paranau%C3%AA-labs-g-pronto-socorro-de-logs-em-go-23a7510b914e)<br>
+🔗 [Paranauê Labs #G: Pronto-Socorro de logs em Go](https://emershow.medium.com/paranau%C3%AA-labs-g-pronto-socorro-de-logs-em-go-23a7510b914e)<br>
 Como criar um logger básico em Go para acompanhar a saúde da sua infra.
 
-🔗 [Paranauê Labs #O: O Ministério da Observabilidade](https://medium.com/@emershow/paranau%C3%AA-labs-o-o-minist%C3%A9rio-da-observabilidade-4bd807522892)<br>
+🔗 [Paranauê Labs #K: O Jardim Botânico do K8s](https://emershow.medium.com/paranau%C3%AA-labs-k-o-jardim-bot%C3%A2nico-do-k8s-98fbce0e5e31)<br>
+Como criar um logger básico em Go para acompanhar a saúde da sua infra.
+
+🔗 [Paranauê Labs #O: O Ministério da Observabilidade](https://emershow.medium.com/paranau%C3%AA-labs-o-o-minist%C3%A9rio-da-observabilidade-4bd807522892)<br>
 Aqui você aprende a montar uma infraestrutura básica de observabilidade com Prometheus e Grafana.
 
-🔗 [Paranauê Labs #T: Terraform Airlines](https://medium.com/@emershow/paranau%C3%AA-labs-t-terraform-airlines-c6675869f41b)<br>
+🔗 [Paranauê Labs #T: Terraform Airlines](https://emershow.medium.com/paranau%C3%AA-labs-t-terraform-airlines-c6675869f41b)<br>
 Passo a passo pra você configurar o Terraform com os Cloud Providers (AWS, Azure e GCP).
 
 ## 🌐 Vamos nos conectar e trocar ideias
