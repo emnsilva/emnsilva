@@ -16,23 +16,11 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 ## 📝 Labs
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
-🔗 [Paranauê Labs #ذ: A pizzaria do ciclo de vida do DevOps](https://emershow.medium.com/paranau%C3%AA-labs-%D8%B0-a-pizzaria-do-ciclo-de-vida-do-devops-c9dd54db29bf)<br>
-Explica cada fase do ciclo de vida do DevOps e as métricas que podem ser observadas.
+🔗 [Paranauê Labs #দ্য: O Python, o Go e a API](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%A6%E0%A7%8D%E0%A6%AF-o-python-o-go-e-a-api-efc638981729)<br>
+Crie APIs REST em Python e Go, implementando operações CRUD para gerenciar um banco de dados de "fora-da-lei" no Velho Oeste, usando SQLite.
 
-🔗 [Paranauê Labs #ت: O trabalho nunca é só o trabalho](https://emershow.medium.com/paranau%C3%AA-labs-%D8%AA-o-trabalho-nunca-%C3%A9-s%C3%B3-o-trabalho-4dc4e52448fb)<br>
-Falo sobre as várias camadas que compõem o trabalho.
-
-🔗 [Paranauê Labs #G: Pronto-Socorro de logs em Go](https://emershow.medium.com/paranau%C3%AA-labs-g-pronto-socorro-de-logs-em-go-23a7510b914e)<br>
-Como criar um logger básico em Go para acompanhar a saúde da sua infra.
-
-🔗 [Paranauê Labs #K: O Jardim Botânico do K8s](https://emershow.medium.com/paranau%C3%AA-labs-k-o-jardim-bot%C3%A2nico-do-k8s-98fbce0e5e31)<br>
-Como criar um logger básico em Go para acompanhar a saúde da sua infra.
-
-🔗 [Paranauê Labs #O: O Ministério da Observabilidade](https://emershow.medium.com/paranau%C3%AA-labs-o-o-minist%C3%A9rio-da-observabilidade-4bd807522892)<br>
-Aqui você aprende a montar uma infraestrutura básica de observabilidade com Prometheus e Grafana.
-
-🔗 [Paranauê Labs #T: Terraform Airlines](https://emershow.medium.com/paranau%C3%AA-labs-t-terraform-airlines-c6675869f41b)<br>
-Passo a passo pra você configurar o Terraform com os Cloud Providers (AWS, Azure e GCP).
+🔗 [Paranauê Labs #দ: O comboio de containers do Velho Oeste digital](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%A6-o-comboio-de-containers-do-velho-oeste-digital-f2ae6aa4784d)<br>
+Este artigo é uma continuação/evolução do tutorial anterior, migrando as APIs de SQLite para PostgreSQL e containerizando toda a aplicação com Docker e Docker Compose.
 
 ## 🌐 Vamos nos conectar e trocar ideias
 ℹ️ [LinkedIn - Emershow](https://www.linkedin.com/in/emnsilva/)
