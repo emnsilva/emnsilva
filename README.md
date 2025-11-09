@@ -20,7 +20,7 @@ Aqui você encontra os guias pra te ajudar nas implementações e praticar a con
 Crie APIs REST em Python e Go, implementando operações CRUD para gerenciar um banco de dados de "fora-da-lei" no Velho Oeste, usando SQLite.
 
 🔗 [Paranauê Labs #দ: O comboio de containers do Velho Oeste digital](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%A6-o-comboio-de-containers-do-velho-oeste-digital-f2ae6aa4784d)<br>
-Este artigo é uma continuação/evolução do tutorial anterior, migrando as APIs de SQLite para PostgreSQL e containerizando toda a aplicação com Docker e Docker Compose.
+Este artigo é uma evolução do tutorial anterior, migrando as APIs de SQLite para PostgreSQL e containerizando toda a aplicação com Docker e Docker Compose.
 
 ## 🌐 Vamos nos conectar e trocar ideias
 ℹ️ [LinkedIn - Emershow](https://www.linkedin.com/in/emnsilva/)
