@@ -16,11 +16,8 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 ## 📝 Labs
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
-🔗 [Paranauê Labs #দ্য: O Python, o Go e a API](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%A6%E0%A7%8D%E0%A6%AF-o-python-o-go-e-a-api-efc638981729)<br>
-Crie APIs REST em Python e Go, implementando operações CRUD para gerenciar um banco de dados de "fora-da-lei" no Velho Oeste, usando SQLite.
-
-🔗 [Paranauê Labs #দ: O comboio de containers do Velho Oeste digital](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%A6-o-comboio-de-containers-do-velho-oeste-digital-f2ae6aa4784d)<br>
-Este artigo é uma evolução do tutorial anterior, migrando as APIs de SQLite para PostgreSQL e containerizando toda a aplicação com Docker e Docker Compose.
+🔗 [Paranauê Labs #হ: Terraform Airlines](https://medium.com/@emershow/paranauê-labs-হ-terraform-airlines-86d13f630a19)<br>
+Decole rumo à nuvem com a Terraform Airlines! Este guia te ensina a pilotar infraestrutura como código usando Terraform Cloud, comparando credenciais estáticas (o passaporte tradicional) com OIDC (o passe digital temporário). Aprenda a configurar AWS, Azure e GCP com segurança e evite colisões no espaço aéreo da sua infraestrutura!
 
 ## 🌐 Vamos nos conectar e trocar ideias
 ℹ️ [LinkedIn - Emershow](https://www.linkedin.com/in/emnsilva/)
