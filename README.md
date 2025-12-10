@@ -19,5 +19,8 @@ Aqui você encontra os guias pra te ajudar nas implementações e praticar a con
 🔗 [Paranauê Labs #হ: Terraform Airlines](https://medium.com/@emershow/paranauê-labs-হ-terraform-airlines-86d13f630a19)<br>
 Decole rumo à nuvem com a Terraform Airlines! Este guia te ensina a pilotar infraestrutura como código usando Terraform Cloud, comparando credenciais estáticas (o passaporte tradicional) com OIDC (o passe digital temporário). Aprenda a configurar AWS, Azure e GCP com segurança e evite colisões no espaço aéreo da sua infraestrutura!
 
+🔗 [Paranauê Labs #হ: O hangar de módulos da Terraform Airlines](https://emershow.medium.com/paranauê-labs-হ-o-hangar-de-módulos-da-terraform-airlines-f841c1254659)<br>
+Chegou a hora de estruturar sua frota na nuvem! Este artigo te leva ao coração da Terraform Airlines para construir módulos reutilizáveis que transformam caos em padrão. Aprenda a criar aeronaves especializadas (módulos) para AWS, Azure e GCP. Diga adeus ao código duplicado e dê as boas-vindas à infraestrutura escalável e consistente!
+
 ## 🌐 Vamos nos conectar e trocar ideias
 ℹ️ [LinkedIn - Emershow](https://www.linkedin.com/in/emnsilva/)
