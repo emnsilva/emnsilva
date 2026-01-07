@@ -16,6 +16,9 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 ## 📝 Labs
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
+🔗 [Paranauê Labs #ত: A fundação do jardim K8s](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A4-a-funda%C3%A7%C3%A3o-do-jardim-k8s-ddd06b7d09f4)<br>
+Este laboratório te ensina a preparar o solo do Kubernetes do zero, configurando Control Plane (o cérebro do jardim) e Worker Nodes (os canteiros produtivos). Aprenda a instalar containerd, configurar networking e orquestrar seu primeiro cluster, criando a fundação onde suas aplicações vão florescer com resiliência e auto-gerenciamento!
+
 🔗 [Paranauê Labs #হ: Terraform Airlines](https://medium.com/@emershow/paranauê-labs-হ-terraform-airlines-86d13f630a19)<br>
 Decole rumo à nuvem com a Terraform Airlines! Este guia te ensina a pilotar infraestrutura como código usando Terraform Cloud, comparando credenciais estáticas (o passaporte tradicional) com OIDC (o passe digital temporário). Aprenda a configurar AWS, Azure e GCP com segurança e evite colisões no espaço aéreo da sua infraestrutura!
 
