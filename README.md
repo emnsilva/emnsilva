@@ -20,7 +20,7 @@ Aqui você encontra os guias pra te ajudar nas implementações e praticar a con
 Este laboratório te ensina a preparar o solo do Kubernetes do zero, configurando Control Plane (o cérebro do jardim) e Worker Nodes (os canteiros produtivos). Aprenda a instalar containerd, configurar networking e orquestrar seu primeiro cluster, criando a fundação onde suas aplicações vão florescer com resiliência e auto-gerenciamento!
 
 🔗 [Paranauê Labs #দ্য: Software Inc. (Parte I)](https://medium.com/@emershow/paranauê-labs-দ্য-software-inc-parte-i-4f02e4abdcdb)<br>
-este guia desvenda a evolução arquitetural dos sistemas como uma jornada corporativa. Aprenda quando usar cada modelo, seus superpoderes e armadilhas, e escolha a estrutura certa para cada fase do seu negócio digital!
+Este guia desvenda a evolução arquitetural dos sistemas como uma jornada corporativa. Aprenda quando usar cada modelo, seus superpoderes e armadilhas, e escolha a estrutura certa para cada fase do seu negócio digital!
 
 🔗 [Paranauê Labs #হ: Terraform Airlines](https://medium.com/@emershow/paranauê-labs-হ-terraform-airlines-86d13f630a19)<br>
 Decole rumo à nuvem com a Terraform Airlines! Este guia te ensina a pilotar infraestrutura como código usando Terraform Cloud, comparando credenciais estáticas (o passaporte tradicional) com OIDC (o passe digital temporário). Aprenda a configurar AWS, Azure e GCP com segurança e evite colisões no espaço aéreo da sua infraestrutura!
