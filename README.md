@@ -19,6 +19,9 @@ Aqui você encontra os guias pra te ajudar nas implementações e praticar a con
 🔗 [Paranauê Labs #ত: A fundação do jardim K8s](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A4-a-funda%C3%A7%C3%A3o-do-jardim-k8s-ddd06b7d09f4)<br>
 Este laboratório te ensina a preparar o solo do Kubernetes do zero, configurando o Control Plane (o cérebro do jardim) e os Worker Nodes (os canteiros produtivos). Aprenda a instalar containerd, configurar networking e orquestrar seu primeiro cluster, criando a fundação onde suas aplicações vão florescer com resiliência e autogerenciamento!
 
+🔗 [Paranauê Labs #ত: O jardim que se ajusta sozinho](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A4-o-jardim-que-se-ajusta-sozinho-df14ca4fe4d9)<br>
+Cultive um jardim que se ajusta sozinho usando o HPA (o assistente que clona vasos quando as filas crescem) e VPA (o especialista que troca vasos por maiores quando as plantas precisam de espaço). Aprenda a fazer seu cluster Kubernetes respirar, escalar e otimizar recursos automaticamente, criando aplicações que florescem com inteligência e resiliência!
+
 🔗 [Paranauê Labs #দ্য: Software Inc. (Parte I)](https://medium.com/@emershow/paranauê-labs-দ্য-software-inc-parte-i-4f02e4abdcdb)<br>
 Este guia desvenda a evolução arquitetural dos sistemas como uma jornada corporativa. Aprenda quando usar cada modelo, seus superpoderes e armadilhas e escolha a estrutura certa para cada fase do seu negócio digital!
 
