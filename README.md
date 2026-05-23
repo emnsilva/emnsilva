@@ -16,14 +16,14 @@ O Paranauê Labs é o espaço DevOps pra botar a mão na massa e aprender fazend
 ## 📝 Labs
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
+🔗 [Paranauê Labs #দ্য: Os heróis da arquitetura de software (Parte I](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-i-a2fbde73d4f6)[/II)](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-ii-99e089e5586f)<br>
+Este guia desvenda a arquitetura dos sistemas como uma jornada de heróis. Conheça cada arquétipo, seus superpoderes, suas armadilhas e o momento certo de convocá-los. Escolha a classe certa para cada fase da sua aventura no mundo do software.
+
 🔗 [Paranauê Labs #ত: A fundação do jardim K8s](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A4-a-funda%C3%A7%C3%A3o-do-jardim-k8s-ddd06b7d09f4)<br>
 Este laboratório te ensina a preparar o solo do Kubernetes do zero, configurando o Control Plane (o cérebro do jardim) e os Worker Nodes (os canteiros produtivos). Aprenda a instalar containerd, configurar networking e orquestrar seu primeiro cluster, criando a fundação onde suas aplicações vão florescer com resiliência e autogerenciamento!
 
 🔗 [Paranauê Labs #ত: O jardim que se ajusta sozinho](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A4-o-jardim-que-se-ajusta-sozinho-df14ca4fe4d9)<br>
 Cultive um jardim que se ajusta sozinho usando o HPA (o assistente que clona vasos quando as filas crescem) e VPA (o especialista que troca vasos por maiores quando as plantas precisam de espaço). Aprenda a fazer seu cluster Kubernetes respirar, escalar e otimizar recursos automaticamente, criando aplicações que florescem com inteligência e resiliência!
-
-🔗 [Paranauê Labs #দ্য: Os heróis da arquitetura de software (Parte I](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-i-a2fbde73d4f6)[/II)](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-ii-99e089e5586f)<br>
-Este guia desvenda a arquitetura dos sistemas como uma jornada de heróis. Conheça cada arquétipo, seus superpoderes, suas armadilhas e o momento certo de convocá-los. Escolha a classe certa para cada fase da sua aventura no mundo do software.
 
 🔗 [Paranauê Labs #হ: Terraform Airlines](https://medium.com/@emershow/paranauê-labs-হ-terraform-airlines-86d13f630a19)<br>
 Decole rumo à nuvem com a Terraform Airlines! Este guia te ensina a pilotar infraestrutura como código usando Terraform Cloud, comparando credenciais estáticas (o passaporte tradicional) com OIDC (o passe digital temporário). Aprenda a configurar AWS, Azure e GCP com segurança e evite colisões no espaço aéreo da sua infraestrutura!
