@@ -22,11 +22,8 @@ Este laboratório te ensina a preparar o solo do Kubernetes do zero, configurand
 🔗 [Paranauê Labs #ত: O jardim que se ajusta sozinho](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A4-o-jardim-que-se-ajusta-sozinho-df14ca4fe4d9)<br>
 Cultive um jardim que se ajusta sozinho usando o HPA (o assistente que clona vasos quando as filas crescem) e VPA (o especialista que troca vasos por maiores quando as plantas precisam de espaço). Aprenda a fazer seu cluster Kubernetes respirar, escalar e otimizar recursos automaticamente, criando aplicações que florescem com inteligência e resiliência!
 
-🔗 [Paranauê Labs #দ্য: Software Inc. (Parte I)](https://medium.com/@emershow/paranauê-labs-দ্য-software-inc-parte-i-4f02e4abdcdb)<br>
-Este guia desvenda a evolução arquitetural dos sistemas como uma jornada corporativa. Aprenda quando usar cada modelo, seus superpoderes e armadilhas e escolha a estrutura certa para cada fase do seu negócio digital!
-
-🔗 [Paranauê Labs #দ্য: Software Inc. (Parte II)](https://emershow.medium.com/paranau%C3%AA-labs-%E0%A6%A6%E0%A7%8D%E0%A6%AF-software-inc-parte-ii-0548da311063)<br>
-Seu sistema já está estruturado? Agora é hora de escalar, processar em massa e comunicar de forma assíncrona. Descubra arquiteturas que nasceram para linhas de produção digitais, eventos distribuídos, serviços corporativos, microsserviços autônomos e infraestrutura invisível. Entenda como evoluir sem engessar e escolher o próximo passo certo para seu negócio em crescimento!
+🔗 [Paranauê Labs #দ্য: Os heróis da arquitetura de software (Parte I](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-i-a2fbde73d4f6)[/II)](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-ii-99e089e5586f)<br>
+Este guia desvenda a arquitetura dos sistemas como uma jornada de heróis. Conheça cada arquétipo, seus superpoderes, suas armadilhas e o momento certo de convocá-los. Escolha a classe certa para cada fase da sua aventura no mundo do software.
 
 🔗 [Paranauê Labs #হ: Terraform Airlines](https://medium.com/@emershow/paranauê-labs-হ-terraform-airlines-86d13f630a19)<br>
 Decole rumo à nuvem com a Terraform Airlines! Este guia te ensina a pilotar infraestrutura como código usando Terraform Cloud, comparando credenciais estáticas (o passaporte tradicional) com OIDC (o passe digital temporário). Aprenda a configurar AWS, Azure e GCP com segurança e evite colisões no espaço aéreo da sua infraestrutura!
