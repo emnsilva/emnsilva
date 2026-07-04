@@ -39,8 +39,11 @@ O negócio é aprender na prática, com erros e acertos, e o melhor: sem pressã
 
 Aqui você encontra os guias pra te ajudar nas implementações e praticar a configuração e uso das ferramentas mais conhecidas do universo DevOps.
 
-🔗 **[Paranauê Labs #দ্য: Os heróis da arquitetura de software (Parte I](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-i-a2fbde73d4f6) / [II)](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-ii-99e089e5586f)**
+🔗 **[Paranauê Labs #দ্য: Os heróis da arquitetura de software (Parte I](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-i-a2fbde73d4f6) / [II)](https://medium.com/@emershow/paranauê-labs-দ্য-os-heróis-da-arquitetura-de-software-parte-ii-99e089e5586f)**<br>
 Este guia desvenda a arquitetura dos sistemas como uma jornada de heróis. Conheça cada arquétipo, seus superpoderes, suas armadilhas e o momento certo de convocá-los. Escolha a classe certa para cada fase da sua aventura no mundo do software.
+
+🔗 **[Paranauê Labs জি: Práticas interessantes que eu usei no meu GitHub (e que você pode copiar)](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%9C%E0%A6%BF-pr%C3%A1ticas-interessantes-que-eu-usei-no-meu-github-e-que-voc%C3%AA-pode-copiar-f6354dad4a82?sharedUserId=emershow)**<br>
+As práticas que transformam um GitHub amador em portfólio profissional. Da vitrine à proteção, aprenda a organizar, autenticar, automatizar e blindar seu perfil. Tudo com método, sem perder a essência.
 
 ---
 
