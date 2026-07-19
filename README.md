@@ -45,6 +45,9 @@ Este guia desvenda a arquitetura dos sistemas como uma jornada de heróis. Conhe
 🔗 **[Paranauê Labs জি: Práticas interessantes que eu usei no meu GitHub (e que você pode copiar)](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%9C%E0%A6%BF-pr%C3%A1ticas-interessantes-que-eu-usei-no-meu-github-e-que-voc%C3%AA-pode-copiar-f6354dad4a82?sharedUserId=emershow)**<br>
 As práticas que transformam um GitHub amador em portfólio profissional. Da vitrine à proteção, aprenda a organizar, autenticar, automatizar e blindar seu perfil. Tudo com método, sem perder a essência.
 
+🔗 **[Paranauê Labs ই: IaC Railways](https://medium.com/@emershow/paranau%C3%AA-labs-%E0%A6%87-iac-railways-508aeba1cb15?sharedUserId=emershow)**<br>
+Configure autenticação, variáveis e boas práticas de IaC com Terraform, OpenTofu e Pulumi em AWS, Azure e GCP. A base da sua infraestrutura, sem descarrilar.
+
 ---
 
 ## 🌐 Vamos nos conectar e trocar ideias
